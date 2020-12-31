@@ -1,0 +1,11 @@
+{"pv_value": 7725, "meter_value": 1181, "result_value": 6544, "total_value": 6544, "total_value_kw": 6.544, "ts": 1609432195.065645, "dt": "2020-12-31 17:29:55.065645"}
+{"pv_value": 8134, "meter_value": 127, "result_value": 8007, "total_value": 5116036, "total_value_kw": 5116.036, "ts": 1609432197.087394, "dt": "2020-12-31 17:29:57.087394"}
+{"pv_value": 5239, "meter_value": 3390, "result_value": 1849, "total_value": 9473598, "total_value_kw": 9473.598, "ts": 1609432199.093774, "dt": "2020-12-31 17:29:59.093774"}
+{"pv_value": 8580, "meter_value": 6702, "result_value": 1878, "total_value": 14161826, "total_value_kw": 14161.826, "ts": 1609432201.095132, "dt": "2020-12-31 17:30:01.095132"}
+{"pv_value": 8031, "meter_value": 734, "result_value": 7297, "total_value": 18417215, "total_value_kw": 18417.215, "ts": 1609432203.096897, "dt": "2020-12-31 17:30:03.096897"}
+{"pv_value": 7248, "meter_value": 6998, "result_value": 250, "total_value": 23420195, "total_value_kw": 23420.195, "ts": 1609432205.105856, "dt": "2020-12-31 17:30:05.105856"}
+{"pv_value": 5614, "meter_value": 1439, "result_value": 4175, "total_value": 27940726, "total_value_kw": 27940.726, "ts": 1609432207.111474, "dt": "2020-12-31 17:30:07.111474"}
+{"pv_value": 7269, "meter_value": 461, "result_value": 6808, "total_value": 32669905, "total_value_kw": 32669.905, "ts": 1609432209.114747, "dt": "2020-12-31 17:30:09.114747"}
+{"pv_value": 8651, "meter_value": 7290, "result_value": 1361, "total_value": 37043485, "total_value_kw": 37043.485, "ts": 1609432211.116527, "dt": "2020-12-31 17:30:11.116527"}
+{"pv_value": 6677, "meter_value": 7420, "result_value": -743, "total_value": 41684960, "total_value_kw": 41684.96, "ts": 1609432213.120053, "dt": "2020-12-31 17:30:13.120053"}
+{"pv_value": 5782, "meter_value": 6916, "result_value": -1134, "total_value": 46440229, "total_value_kw": 46440.229, "ts": 1609432215.12408, "dt": "2020-12-31 17:30:15.124080"}
